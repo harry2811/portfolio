@@ -616,6 +616,7 @@ button.mobile-menu-btn.active span:nth-child(2) {
 .content {
     padding: 1.5rem;
     background-color: white;
+    height: 100%;
 }
 
 .content h3 {
