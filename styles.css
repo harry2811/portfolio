@@ -413,7 +413,7 @@ section#portfolio:after {
     visibility: hidden;
     transition: var(--transition);
     border: none;
-    z-index: 1;
+    z-index: 2;
 }
 
 .scroll-top.visible {
