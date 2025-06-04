@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+ 
 :root {
     --primary-color: #8647e0;
     --primary-hover: #6f3bb8;
@@ -298,6 +298,7 @@ p {
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     border: 1px solid var(--primary-color);
+    position: relative;
 }
 form.contact-form:after {
     position: absolute;
