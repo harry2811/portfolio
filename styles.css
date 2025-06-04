@@ -389,6 +389,8 @@ section#portfolio:after {
     color: var(--text-color);
     font-size: 1.5rem;
     transition: var(--transition);
+    position: relative;
+    z-index: 2;
 }
 
 .social-links a:hover {
